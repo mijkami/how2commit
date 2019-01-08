@@ -1,11 +1,11 @@
 ___________________
 
-#* update applications
+#* update applications  
 	$ sudo get-apt update
 
 ___________________
 
-#* git copier repo github spécifique
+#* git copier repo github spécifique  
 	$ git clone https://github.com/nom_user/nom_de_repo/
 
 ___________________
@@ -16,6 +16,8 @@ ___________________
 	$ mkdir kikoo
 	$ ls
 	$ cd kikoo
+	
+
 
 #* créer fichier kikoo.txt
 #* ouvrir kikoo.txt dans éditeur de texte
