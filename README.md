@@ -1,12 +1,12 @@
 ___________________
 
 # update applications  
-	$ sudo get-apt update
+> $ sudo get-apt update
 
 ___________________
 
 # git copier repo github spécifique  
-	$ git clone https://github.com/nom_user/nom_de_repo/
+> $ git clone https://github.com/nom_user/nom_de_repo/
 
 ___________________
 
